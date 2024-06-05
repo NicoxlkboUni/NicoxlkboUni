@@ -61,6 +61,14 @@
           <span><sup><b>C</b></sup></span><br />
           <img alt="C" title="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
         </td>
+        <td width="80px" align="center">
+          <span><sup><b>LaTeX</b></sup></span><br />
+          <img alt="LaTeX" title="LaTeX" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Arduino</b></sup></span><br />
+          <img alt="Arduino" title="Arduino" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+        </td>
       </tr>
     </tbody>
   </table>
@@ -96,25 +104,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<details>
-  <summary>MY STATS</summary>
-  <div align="center">
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoxlkboUni&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="github-stats" width="500" height="200"/>
-    </a>
-    <br />
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=NicoxlkboUni&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D" alt="github-stats" width="500" height="200"/>
-    </a>
-    <br />
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=NicoxlkboUni&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="github-stats" width="500" height="200"/>
-    </a>
-  </div>
-</details>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 **CONNECT WITH ME**
 
 [<img title="Instagram" height=30px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram] &nbsp;&nbsp;&nbsp;
@@ -125,4 +114,3 @@
 [instagram]: https://www.instagram.com/nicoxlkbo/
 [linkedin]: https://www.linkedin.com/in/nicol%C3%A1s-g%C3%B3mez-morgado-3697691a5/
 [facebook]: https://web.facebook.com/nicolasgomezmorgado?
-
