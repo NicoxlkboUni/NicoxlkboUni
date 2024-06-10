@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Sobrevivir
 - 🌱 I’m currently learning PL/SQL
 - 📫 How to reach me: nicogomezmorgado86@gmail.com
-- ⚡ Fun fact: Ni idea que hago con mi vida :c
+- ⚡ Fun fact: Jar Jar Binks es un sith 🤠
 
 <details>
   <summary>Current goals</summary>
