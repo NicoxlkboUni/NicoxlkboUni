@@ -107,16 +107,16 @@
 <details>
   <summary>MY STATS</summary>
   <div align="center">
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoxlkboUni&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="github-stats" width="500" height="200"/>
+    <a href="https://github.com/NicoGomezM" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoGomezM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="github-stats" width="500" height="200"/>
     </a>
     <br />
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=NicoxlkboUni&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D" alt="github-stats" width="500" height="200"/>
+    <a href="https://github.com/NicoGomezM" target="_blank">
+      <img src="https://streak-stats.demolab.com?user=NicoGomezM&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D" alt="github-stats" width="500" height="200"/>
     </a>
     <br />
-    <a href="https://github.com/NicoxlkboUni" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=NicoxlkboUni&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="github-stats" width="500" height="200"/>
+    <a href="https://github.com/NicoGomezM" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=NicoGomezM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="github-stats" width="500" height="200"/>
     </a>
   </div>
 </details>
